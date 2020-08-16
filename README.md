@@ -7,7 +7,7 @@ I appreciate you support my project, you can [![](https://www.paypalobjects.com/
 
 ## ESP uploader is a USB to UART converter for programming Espressif modules such as ESP-07S, ESP-12E, ESP-01, ESP32-WROOM and ESP32-WROOVER.
 
-![Board](https://github.com/srg74/ESP_uploader/blob/master/resources/Images/ESP-uploader.jpg)
+![Board](https://github.com/srg74/ESP-uploader/blob/master/Images/ESP-uploader_small.jpg)
 
 ## PCB ordering
 
