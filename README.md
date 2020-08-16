@@ -1,4 +1,4 @@
-# WLED-wemos-shield
+# ESP uploader
  
 [![](https://img.shields.io/github/v/release/srg74/ESP-uploader)](https://img.shields.io/github/v/release/srg74/ESP-uploader)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/srg74/ESP-uploader/blob/master/LICENSE)
