@@ -14,7 +14,7 @@ I appreciate you support my project, you can [![](https://www.paypalobjects.com/
 -   [Ordering](https://www.pcbway.com/project/shareproject/ESP-uploader.html) - $5 for 10 PCBs very good quality.
 -   [Sign in and save](https://www.pcbway.com/setinvite.aspx?inviteid=83580) - Helping me to save some money for development.
 ```
-Programer have following features:
+ESP uploader have following features:
 ```
 -   CP2102N USB to UART bridge;
 -   USB-C connector;
