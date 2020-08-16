@@ -7,4 +7,4 @@
 <a href="https://github.com/srg74/ESP-uploader/blob/master/Resources/ESP-Prgm.pdf">![Schematic](https://github.com/srg74/ESP-uploader/blob/master/Resources/ESP-Prgm.jpg)</a>
 ## Parts
 -   [BOM](https://github.com/srg74/ESP-uploader/blob/master/Resources/ESP-uploader_BOM.pdf) - Bill of materials.
--   [Digikey part list](https://github.com/srg74/) - Download BOM and you can upload on Digikey website for order.
+-   [Digikey part list](https://github.com/srg74/ESP-uploader/blob/master/Resources/ESP-uploader_BOM.csv) - Download BOM and you can upload on Digikey website for order.
