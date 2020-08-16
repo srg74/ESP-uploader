@@ -1,5 +1,5 @@
 # PCB ordering
--   [Ordering](https://www.pcbway.com/project/shareproject/ESP-uploader.html) - $5 10 PCBs in no time :) Parts list in BOM.
+-   [Ordering](https://www.pcbway.com/project/shareproject/ESP_uploader.html) - $5 10 PCBs in no time :) Parts list in BOM.
 # Shield PCBs and scematic
 ## PCB
 ![PCB](https://github.com/srg74/ESP-uploader/blob/master/Images/PCB_top.jpg)
