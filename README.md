@@ -28,4 +28,4 @@ ESP uploader have following features:
 ## CP2102N reference documents
 
 -   [Data sheet](https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf) - USBXpress Family CP2102N Data Sheet
--   [Review](https://www.element14.com/community/roadTestReviews/2451/l/silicon-labs-usb-to-uart-bridge-controller-evm-review) - SILICON LABS USB-TO-UART Bridge Controller EVM - Review
+-   [Reference](https://www.element14.com/community/roadTestReviews/2451/l/silicon-labs-usb-to-uart-bridge-controller-evm-review) - SILICON LABS USB-TO-UART Bridge Controller EVM - Review
