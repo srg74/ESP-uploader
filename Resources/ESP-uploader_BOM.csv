@@ -1,4 +1,5 @@
 Value,Manufacturer Part Number,Manufacturer,Digi-Key Part Number,Quantity,Description
+F1,MF-MSMF200-2,Bourns Inc.,MF-MSMF200-2CT-ND,1,Polymeric PTC Resettable Fuse
 J1,USB4105-GF-A,GCT,2073-USB4105-GF-ACT-ND,1,CONN RCPT USB2.0 TYPEC 5A
 R4,ERJ-2RKF2212X,Panasonic Electronic Components,P22.1KLCT-ND,1,RES SMD 22.1K OHM 1% 1/10W 0402
 R5,ERJ-2RKF4752X,Panasonic Electronic Components,P47.5KLCT-ND,1,RES SMD 47.5K OHM 1% 1/10W 0402
