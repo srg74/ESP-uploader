@@ -19,8 +19,8 @@ ESP uploader have following features:
 -   CP2102N USB to UART bridge;
 -   USB-C connector;
 -   Auto reset circuit;
--   Resettable fuse;
--   Protection from reverse power;
+-   Selectable dual voltage on VO pin to power your board. 5V, 3.3V. Mid position for NO POWER to board.
+-   Resettable fuses;
 -   TX/RX activity LEDs;
 -   USB power indicator LED;
 -   Bread board friendly 6 pin header connector.
