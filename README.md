@@ -3,7 +3,7 @@
 [![](https://img.shields.io/github/v/release/srg74/ESP-uploader)](https://img.shields.io/github/v/release/srg74/ESP-uploader)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/srg74/ESP-uploader/blob/master/LICENSE)
 
-I appreciate you support my project, you can [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VU7L89Z2RR7S4&source=url)
+I appreciate you support for my project! [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VU7L89Z2RR7S4&source=url)
 
 ## ESP uploader is a USB to UART converter for programming Espressif modules such as ESP-07S, ESP-12E, ESP-01, ESP32-WROOM and ESP32-WROOVER.
 
